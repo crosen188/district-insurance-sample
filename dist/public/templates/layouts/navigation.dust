@@ -10,7 +10,7 @@
             <a href="/table"><img src="/images/blank.gif" class="icon-list-investmentsIcon" /></a>
 <!-- ACT I END-->
 <!-- ACT II BEGIN -->
-            <a href="/investment"><img src="/images/blank.gif" class="icon-investmentsIcon" /></a>
+<!--           <a href="/investment"><img src="/images/blank.gif" class="icon-investmentsIcon" /></a> -->
 <!-- ACT II END -->
 
             <a href="/calculator"><img src="/images/blank.gif" class="icon-calculatorIcon" /></a>
